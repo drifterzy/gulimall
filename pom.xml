@@ -13,6 +13,6 @@
         <module>gulimall-member</module>
         <module>gulimall-order</module>
         <module>gulimall-product</module>
-        <module>gulimall-order</module>
+        <module>gulimall-ware</module>
     </modules>
 </project>
